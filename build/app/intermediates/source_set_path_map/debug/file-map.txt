@@ -1,0 +1,15 @@
+com.deveaf.carnet.app-jetified-window-java-1.0.0-beta04-0 /Users/admin/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.deveaf.carnet.app-core-1.6.0-1 /Users/admin/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.deveaf.carnet.app-jetified-annotation-experimental-1.1.0-2 /Users/admin/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.deveaf.carnet.app-jetified-window-1.0.0-beta04-3 /Users/admin/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.deveaf.carnet.app-debug-4 /Users/admin/Documents/MyProjects/carnet/android/app/src/debug/res
+com.deveaf.carnet.app-main-5 /Users/admin/Documents/MyProjects/carnet/android/app/src/main/res
+com.deveaf.carnet.app-pngs-6 /Users/admin/Documents/MyProjects/carnet/build/app/generated/res/pngs/debug
+com.deveaf.carnet.app-resValues-7 /Users/admin/Documents/MyProjects/carnet/build/app/generated/res/resValues/debug
+com.deveaf.carnet.app-rs-8 /Users/admin/Documents/MyProjects/carnet/build/app/generated/res/rs/debug
+com.deveaf.carnet.app-mergeDebugResources-9 /Users/admin/Documents/MyProjects/carnet/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.deveaf.carnet.app-mergeDebugResources-10 /Users/admin/Documents/MyProjects/carnet/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.deveaf.carnet.app-merged_res-11 /Users/admin/Documents/MyProjects/carnet/build/app/intermediates/merged_res/debug
+com.deveaf.carnet.app-packaged_res-12 /Users/admin/Documents/MyProjects/carnet/build/path_provider_android/intermediates/packaged_res/debug
+com.deveaf.carnet.app-packaged_res-13 /Users/admin/Documents/MyProjects/carnet/build/shared_preferences_android/intermediates/packaged_res/debug
+com.deveaf.carnet.app-packaged_res-14 /Users/admin/Documents/MyProjects/carnet/build/sqflite/intermediates/packaged_res/debug
